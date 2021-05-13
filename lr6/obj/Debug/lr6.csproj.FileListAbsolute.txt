@@ -1,0 +1,11 @@
+F:\lr c#\lr6\lr6\bin\Debug\lr6.exe.config
+F:\lr c#\lr6\lr6\bin\Debug\lr6.exe
+F:\lr c#\lr6\lr6\bin\Debug\lr6.pdb
+F:\lr c#\lr6\lr6\obj\Debug\lr6.csprojAssemblyReference.cache
+F:\lr c#\lr6\lr6\obj\Debug\lr6.fMain.resources
+F:\lr c#\lr6\lr6\obj\Debug\lr6.Properties.Resources.resources
+F:\lr c#\lr6\lr6\obj\Debug\lr6.csproj.GenerateResource.cache
+F:\lr c#\lr6\lr6\obj\Debug\lr6.csproj.CoreCompileInputs.cache
+F:\lr c#\lr6\lr6\obj\Debug\lr6.exe
+F:\lr c#\lr6\lr6\obj\Debug\lr6.pdb
+F:\lr c#\lr6\lr6\obj\Debug\lr6.fPlane.resources
